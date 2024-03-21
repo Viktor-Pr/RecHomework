@@ -1,0 +1,15 @@
+D:\Git\RecHome2\task3\bin\Debug\net8.0\task3.exe
+D:\Git\RecHome2\task3\bin\Debug\net8.0\task3.deps.json
+D:\Git\RecHome2\task3\bin\Debug\net8.0\task3.runtimeconfig.json
+D:\Git\RecHome2\task3\bin\Debug\net8.0\task3.dll
+D:\Git\RecHome2\task3\bin\Debug\net8.0\task3.pdb
+D:\Git\RecHome2\task3\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\RecHome2\task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+D:\Git\RecHome2\task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
+D:\Git\RecHome2\task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+D:\Git\RecHome2\task3\obj\Debug\net8.0\task3.sourcelink.json
+D:\Git\RecHome2\task3\obj\Debug\net8.0\task3.dll
+D:\Git\RecHome2\task3\obj\Debug\net8.0\refint\task3.dll
+D:\Git\RecHome2\task3\obj\Debug\net8.0\task3.pdb
+D:\Git\RecHome2\task3\obj\Debug\net8.0\task3.genruntimeconfig.cache
+D:\Git\RecHome2\task3\obj\Debug\net8.0\ref\task3.dll
