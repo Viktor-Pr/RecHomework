@@ -12,3 +12,4 @@ D:\Git\RecHome2\task1\obj\Debug\net8.0\refint\task1.dll
 D:\Git\RecHome2\task1\obj\Debug\net8.0\task1.pdb
 D:\Git\RecHome2\task1\obj\Debug\net8.0\task1.genruntimeconfig.cache
 D:\Git\RecHome2\task1\obj\Debug\net8.0\ref\task1.dll
+D:\Git\RecHome2\task1\obj\Debug\net8.0\task1.sourcelink.json
