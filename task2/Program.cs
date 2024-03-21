@@ -22,4 +22,4 @@ static void recurs_natural(int m, int n)
         recurs_natural(m - 1, n);
     }
 }
-recurs_natural(2, 7);
+recurs_natural(2, 5);
